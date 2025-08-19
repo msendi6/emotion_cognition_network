@@ -13,5 +13,7 @@ We then developed general linear models (GLMs) to examine relationships between 
 
 **Fig. 2b** shows brain networks associated with numeric memory scores after FDR correction. From 1,378 connectivity measures, 239 were identified as relevant to numeric memory (**Supplementary Data 2**). Red lines indicate connections linked to poorer performance, while blue lines reflect associations with better numeric memory, suggesting enhanced cognitive function.  Notably, approximately 43% of these connections involved the CC, either within the CC network or between the CC network and other networks. 
 
+We developed multiple GLMs to investigate relationships between 1,378 FNC measures and our chosen indices of emotion dysregulation, focusing on neuroticism (Supplementary Fig.4c) and anhedonia. Our model again included age, age2, sex, the age × sex interaction, and the site of data collection as covariates. **Fig. 2c** illustrates 34 functional connectivity links with neuroticism that remained significant after FDR correction (**Supplementary Data 3**). Red lines are connections linked to higher neuroticism, while blue lines are associated with lower neuroticism. 
+
 <img width="595" height="354" alt="image" src="https://github.com/user-attachments/assets/aa0e7654-c1db-495d-a296-404e49f6c7b9" />
 
