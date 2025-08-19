@@ -8,6 +8,7 @@ Figure 1 is shown here
 <img width="468" height="555" alt="image" src="https://github.com/user-attachments/assets/e103cd3a-d28a-4c97-9961-e75acf77718e" />
 
 **Brain networks linked to cognitive function in the healthy UKBB sample**
+
 We then developed general linear models (GLMs) to examine relationships between two cognitive measures, choice reaction time  and numeric memory and 1,378 FNC measrues while including age, age2, sex, the age × sex interaction, and the site of data collection as covariates  
 
 **Fig. 2a** displays 28 brain connections that remained significant after FDR correction in the model linking reaction time to functional connectivity in UKBB (**Supplementary Data 1**). In this figure, red lines indicate connections associated with longer reaction times, suggesting reduced cognitive function, while blue lines indicate connections associated with shorter reaction times, indicative of enhanced cognitive function. Additionally, the top five connectivity measures showing the strongest association with reaction time are displayed, along with the percentage contribution of each network in the model. Notably, the findings indicate the CC network is the most influential, accounting for 46% of all connections related to reaction time. 
@@ -16,6 +17,7 @@ We then developed general linear models (GLMs) to examine relationships between 
 
 
 **Brain networks linked to emotion dysregulation in the healthy UKBB sample**
+
 We developed multiple GLMs to investigate relationships between 1,378 FNC measures and our chosen indices of emotion dysregulation, focusing on neuroticism and anhedonia. Our model again included age, age2, sex, the age × sex interaction, and the site of data collection as covariates. **Fig. 2c** illustrates 34 functional connectivity links with neuroticism that remained significant after FDR correction (**Supplementary Data 3**). Red lines are connections linked to higher neuroticism, while blue lines are associated with lower neuroticism.
 
 **Fig. 2d** illustrates all 262 (out of 1,378) connectivity links with anhedonia that remained significant after applying FDR correction (**Supplementary Data 4**). Red lines indicate connections linked to the presence of anhedonia, while blue lines are connections linked to its absence. As shown, the CC accounted for 34% of the connections, while the VIS, SM, and DM networks contributed 18%, 16%, and 14%, respectively. 
